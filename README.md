@@ -12,7 +12,8 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://ik.imagekit.io/zakwan/jett2_TF4OCzpxMmw.jpg?updatedAt=1627838350660">
+  <iframe src="https://giphy.com/embed/KGdKKipVBu9vO5hKkb" align="right" height="150" frameBorder="0" class="giphy-embed"></iframe>
+ 
 </div>
   
   ##
